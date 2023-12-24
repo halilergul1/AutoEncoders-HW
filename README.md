@@ -1,2 +1,2 @@
 # AutoEncoders-HW
-This repo contains autoencoders and var-autoencoders homeworks I did for my deep learning class
+This repo contains linear, non-linear and stack autoencoder homeworks I did for my deep learning class
